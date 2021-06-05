@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yingying
-- 👀 I’m interested in full stack development and working on Microsoft products
-- 🌱 I’m currently learning front end development
+- 👀 I’m interested in full stack development 
+- 🌱 I’m currently learning front end development and working on Microsoft products
 - 📫 How to reach me - via linkedin or gmail yaoyingyingg@gmail.com
 
 <!---
